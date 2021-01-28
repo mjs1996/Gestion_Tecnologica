@@ -1,0 +1,71 @@
+.cuerpo_color{
+    background-color:#eeeeee;
+}
+
+
+.color_login{
+    background-color: white;
+}
+
+.runaway{
+    font-family: 'Raleway'
+}
+
+
+    .black{
+        color: black;
+    }
+
+.Monserrat{
+    font-family: 'Montserrat';
+}
+
+.shadow_black{
+    text-shadow: black.1em 0.1em 0.2em;
+
+}
+
+.column_color{
+    background-color: black;
+}
+.white{
+    color: white;
+}
+
+.espacio_nav{ 
+    padding-left: 20ex ;
+}
+.space{
+    padding-left: 16ex
+}
+
+.space_table{
+padding-left: 100ex;
+}
+
+.jumbotron{
+    background-color: #292b2c ;
+   
+}
+.grey{
+    background-color: grey;
+}
+.statica{
+
+    position: fixed; /* Set the navbar to fixed position */
+    width:100%; /* Full width */
+    z-index: 100;
+ 
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
